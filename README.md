@@ -54,6 +54,10 @@ Streamlit UI
 
 ---
 
+## 📽️ Demo Video
+Demo Link: https://drive.google.com/file/d/1Zu6CY870X5jAPucI_KnRuyuHXixZeEo6/view?usp=drivesdk
+
+
 ### ▶️ How to Run
 
 #### 1. Install dependencies
